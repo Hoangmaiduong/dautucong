@@ -1,0 +1,6 @@
+{
+  "name": "Remix: QLDA Đầu tư công",
+  "description": "Ứng dụng theo dõi, tổng hợp và sử dụng Trí tuệ Nhân tạo (AI) để đánh giá chi tiết tiến độ các dự án đầu tư công hàng tuần, tự động lấy dữ liệu từ Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
